@@ -1,0 +1,11 @@
+.entry-page {
+ /* view port height to give full bg color */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-box {
+    box-shadow: 0px 0px 15px -5px black;
+
+}
